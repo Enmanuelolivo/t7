@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Tarea7.MainPage"
+             NavigationPage.HasBackButton="False"
+             NavigationPage.HasNavigationBar="False">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+
+        <Label
+            HorizontalOptions="CenterAndExpand">
+            <Label.FormattedText>
+                <FormattedString>
+                    <Span Text="Hola" FontAttributes="Bold"/>
+                </FormattedString>
+            </Label.FormattedText>
+            
+        </Label>
+
+        <Entry Placeholder="Enter" HorizontalOptions="CenterAndExpand">
+            <Entry.Triggers>
+                <Trigger TargetType="Entry"
+                         Property="IsFocused" Value="true">
+                    <Setter Property="BackgroundColor" Value="Red"/>
+                </Trigger>
+            </Entry.Triggers>
+        </Entry>
+        <Entry IsEnabled="False" BackgroundColor="Blue">
+            <VisualStateManager.VisualStateGroups>
+                <VisualStateGroup x:Name="CommonStates">
+                    <VisualState x:Name="Normal">
+                        <VisualState.Setters>
+                            <Setter Property="BackgroundColor" Value="Green"/>
+                        </VisualState.Setters>
+                    </VisualState>
+                </VisualStateGroup>
+            </VisualStateManager.VisualStateGroups>
+        </Entry>
+        
+    </StackLayout>
+
+</ContentPage>

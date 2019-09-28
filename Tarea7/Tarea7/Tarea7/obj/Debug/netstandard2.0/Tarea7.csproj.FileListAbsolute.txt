@@ -1,0 +1,14 @@
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\bin\Debug\netstandard2.0\Tarea7.deps.json
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\bin\Debug\netstandard2.0\Tarea7.dll
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\bin\Debug\netstandard2.0\ref\Tarea7.dll
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\bin\Debug\netstandard2.0\Tarea7.pdb
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Tarea7.csprojAssemblyReference.cache
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Tarea7.csproj.CoreCompileInputs.cache
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Tarea7.AssemblyInfoInputs.cache
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Tarea7.AssemblyInfo.cs
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Tarea7.dll
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\ref\Tarea7.dll
+C:\Users\enman\source\repos\Tarea7\Tarea7\Tarea7\obj\Debug\netstandard2.0\Tarea7.pdb
